@@ -4,13 +4,11 @@ This is a companion app for my talking head [project](https://github.com/falucia
 
 # Functionality
 
-- [ ] Pair with talking head over bluetooth
+- [ ] Send text request to talking head
 - [ ] See available sounds from talking head and list them
-- [ ] Send request to talking head to play sound 
-- [ ] Upload a new sound to talking head
+- [ ] Send a file to play to talking head
 
 # Tech Stack
 
 - [ ] React Native
 - [ ] Expo
-- [ ] Bluetooth?
